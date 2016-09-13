@@ -1,27 +1,28 @@
 Please answer the following questions:
 
 1. What is your full name?
-
+Samuel J Gonzalez
 
 
 2. What is the username for your GitHub account?
-
+TwelveStorms
 
 
 3. Where is your hometown?
-
+Miami Florida
 
 
 4. What is your favorite local restaurant?
-
+Bottega Grill
 
 
 5. Name the last good book you read (title, author?).
-
+William Shakespeare's Star Wars: Verily, a New Hope, Ian Doescher
 
 
 6. Which album/artist is in heavy rotation on your iPod/iPhone/MP3 player/stream?
-
+Hideki Sakamoto
 
 
 7. If you were to build a web site for fun, what would it be about?
+I would build a website about PC mods for PC enthusiasts.
